@@ -1,4 +1,4 @@
-![Banner](https://i.imgur.com/0dckoyG.png)
+<img src="https://i.imgur.com/0dckoyG.png" width="100" height="100"/>
 
 # RiconFNLauncher
 HTA + Vbscript Launcher for [Project Ricon](https://github.com/VoxyB89/Project-RiconFN)
