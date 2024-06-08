@@ -1,0 +1,2 @@
+Game_Location:"D:\Games\fn12.41"
+DLL_Location:"D:\My Fn Backend\Launcher\Cobalt.dll"
