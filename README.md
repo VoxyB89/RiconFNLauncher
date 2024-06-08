@@ -1,4 +1,4 @@
-<img src="https://i.imgur.com/0dckoyG.png" width="100" height="100"/>
+<img src="https://i.imgur.com/0dckoyG.png" width="200" height="200"/>
 
 # RiconFNLauncher
 HTA + Vbscript Launcher for [Project Ricon](https://github.com/VoxyB89/Project-RiconFN)
